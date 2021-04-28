@@ -4,7 +4,7 @@
 @import "~ag-grid-community/dist/styles/ag-theme-balham.css";
 
 body.show-left-rail .generalcontainer {
-    width: 875px;
+    width: 870px;
 }
 
 .wrapper {

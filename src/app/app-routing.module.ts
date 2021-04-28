@@ -1,6 +1,6 @@
 import { NgModule } from "@angular/core";
 import { RouterModule, Routes } from "@angular/router";
-import { EhrUserDashboardComponent } from "./components/ehrUserDashboard/ehr-user-dashboard.component";
+// import { EhrUserDashboardComponent } from "./components/ehrUserDashboard/ehr-user-dashboard.component";
 
 const routes: Routes = [
   {
